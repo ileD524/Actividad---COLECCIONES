@@ -1,0 +1,6 @@
+Crear una lista (List <int>)
+
+- Inserta un número en una posición específica.
+- Modifica el valor de un número en una posición específica.
+- Elimina un número de la lista.
+- Ordena la lista de menor a mayor utilizando el método Sort().
